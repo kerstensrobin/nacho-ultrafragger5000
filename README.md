@@ -1,28 +1,28 @@
-# NACHO ULTRAFRAGGER 5000
+# Nacho UltraFragger 5000
 
-### THE ULTIMATE THROUGH-HOLE MECHANICAL GAMING TKL KEYBOARD. ACTIVE COOLING NOT INCLUDED. ACTIVE GAMING VERY MUCH INCLUDED.
+A through-hole mechanical TKL keyboard with a built-in USB hub and hardware volume control.
 
-You thought your off-the-shelf keyboard was good enough? You thought wrong. The **Nacho UltraFragger 5000** is a no-compromise, hand-solderable, through-hole-only tenkeyless mechanical keyboard engineered from the ground up for those who demand MAXIMUM PERFORMANCE and ZERO SMD components. Every resistor, every diode, every capacitor — all glorious through-hole, all day long.
+The **Nacho UltraFragger 5000** is a hand-solderable, through-hole-only tenkeyless mechanical keyboard designed for builders who want a fully through-hole project without surface-mount components. Every resistor, diode, and capacitor is through-hole, making the board approachable to assemble and easy to work on.
 
-Featuring a built-in **USB hub** and a **volume slider** because real fraggers don't alt-tab to change the volume. They twist a knob. Mid-firefight. Without blinking.
+It includes a built-in **USB hub** and a **hardware volume slider** for added convenience, along with a compact TKL layout and USB Type-C connectivity.
 
 ## Features
 
-- **100% Through-Hole Construction** — If you can't see the solder joint with your naked eye, we don't want it
-- **TKL Layout** — Full-size is for spreadsheets. TKL is for warriors
-- **USB Type-C** — Because it's not 2012
-- **Integrated USB Hub** — Plug in your mouse, your headset, your backup mouse, whatever
-- **Hardware Volume Slider** — Analog control for analog legends
-- **ATmega32A Powered** — The reliable workhorse that runs QMK like a champ
-- **Fully Open Source** — Schematics, PCB, case files — it's all here, do what you want with it
+- **Fully through-hole construction** — no SMD components
+- **TKL layout** — compact without giving up essential keys
+- **USB Type-C**
+- **Integrated USB hub**
+- **Hardware volume slider**
+- **ATmega32A powered**
+- **Open source** — schematics, PCB files, and case files are included
 
 ## Origins
 
-This project is loosely based on the legendary [Mysterium keyboard](https://github.com/coseyfannitutti/mysterium) by coseyfannitutti — the board that proved you don't need a factory to build a world-class keyboard. We took that foundation, cranked every dial to 11, strapped a USB hub and a volume slider to it, and named it something truly worthy of its power.
+This project is loosely based on the excellent [Mysterium keyboard](https://github.com/coseyfannitutti/mysterium) by coseyfannitutti, which demonstrated how capable a hand-assembled keyboard project can be. This design builds on that idea with additional features such as a USB hub and hardware volume control.
 
 ## Status
 
-Under active development. Things will break. Things will be re-routed. Capacitors may be added and removed on a whim. This is the way.
+Under active development. Expect changes to the hardware and design as the project evolves.
 
 ## License
 
